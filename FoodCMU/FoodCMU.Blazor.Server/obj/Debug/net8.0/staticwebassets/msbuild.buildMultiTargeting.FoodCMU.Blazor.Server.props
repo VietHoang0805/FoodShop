@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FoodCMU.Blazor.Server.props" />
+</Project>

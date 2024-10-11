@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<visualDesignerDiagram dslVersion="1.0.0.0" Id="314863fa-841f-423f-9f25-0a1e39db1556" absoluteBounds="0, 0, 11, 8.5" name="FoodCMU">
+  <dataBaseObjectModelMoniker Id="e720a002-0a51-4ce7-aac2-54fd08f95930" />
+  <nestedChildShapes>
+    <xpObjectShape Id="ff59d003-9594-4f2f-b027-8925044269d7" absoluteBounds="4.5729169845581055, 2.0625, 1.5, 1.3704703776041667">
+      <xpObjectMoniker Id="326ffb06-a062-4c17-ae4f-ecc256c73fea" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f83b8810-406a-4c1c-91e3-2122a62e8733" absoluteBounds="4.5879169845581051, 2.3725, 1.4700000000000002, 0.44169108072916663" name="Fields" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="f1882c41-b6bb-443e-a3ea-b19f430c013a" absoluteBounds="4.5879169845581051, 2.8241910807291664, 1.4700000000000002, 0.2493896484375" name="Indexes" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="d59e3492-4102-4cda-a590-d2276d480d00" absoluteBounds="4.5879169845581051, 3.0835807291666666, 1.4700000000000002, 0.2493896484375" name="Collections" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </xpObjectShape>
+  </nestedChildShapes>
+</visualDesignerDiagram>

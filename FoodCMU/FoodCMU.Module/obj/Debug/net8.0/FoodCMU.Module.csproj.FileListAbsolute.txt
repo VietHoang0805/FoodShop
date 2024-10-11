@@ -1,0 +1,13 @@
+H:\FoodShop\FoodCMU\FoodCMU.Module\bin\Debug\net8.0\FoodCMU.Module.deps.json
+H:\FoodShop\FoodCMU\FoodCMU.Module\bin\Debug\net8.0\FoodCMU.Module.dll
+H:\FoodShop\FoodCMU\FoodCMU.Module\bin\Debug\net8.0\FoodCMU.Module.pdb
+H:\FoodShop\FoodCMU\FoodCMU.Module\obj\Debug\net8.0\FoodCMU.Module.csproj.AssemblyReference.cache
+H:\FoodShop\FoodCMU\FoodCMU.Module\obj\Debug\net8.0\FoodCMU.Module.GeneratedMSBuildEditorConfig.editorconfig
+H:\FoodShop\FoodCMU\FoodCMU.Module\obj\Debug\net8.0\FoodCMU.Module.AssemblyInfoInputs.cache
+H:\FoodShop\FoodCMU\FoodCMU.Module\obj\Debug\net8.0\FoodCMU.Module.AssemblyInfo.cs
+H:\FoodShop\FoodCMU\FoodCMU.Module\obj\Debug\net8.0\FoodCMU.Module.csproj.CoreCompileInputs.cache
+H:\FoodShop\FoodCMU\FoodCMU.Module\obj\Debug\net8.0\FoodCMU.Module.sourcelink.json
+H:\FoodShop\FoodCMU\FoodCMU.Module\obj\Debug\net8.0\FoodCMU.Module.dll
+H:\FoodShop\FoodCMU\FoodCMU.Module\obj\Debug\net8.0\refint\FoodCMU.Module.dll
+H:\FoodShop\FoodCMU\FoodCMU.Module\obj\Debug\net8.0\FoodCMU.Module.pdb
+H:\FoodShop\FoodCMU\FoodCMU.Module\obj\Debug\net8.0\ref\FoodCMU.Module.dll

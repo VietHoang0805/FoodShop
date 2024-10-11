@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e720a002-0a51-4ce7-aac2-54fd08f95930" namespace="FoodCMU.Module.BusinessObjects.FoodCMU" dataBaseShemaInfo="H4sIAAAAAAAEAMVU207bQBB9r9R/sPIcX+NLQLYRJIAQLUUEKl7X63Gy7XodeddJ+vcdX2LiEFr1qW+eM2c0c2bOOrzY5VzbQClZIaKRbViji/jzp/CKSFiooiRLuBNZoSFLyPOdTKPRSqn1uWlut1tjOzGKcmk6lmWbr1+/LOgKcjLqyezvZJ0JqYigMMKumhY+k4SDrFs28R45APbQA8khvgUBJeGv62/JD6DKDs23XE+/FjUWq7KC0OyCPjlnsgZe1ilREGeESyQNwZ57W7H0Lo0njp9lieXrxPId3aV2oBNwMx0odTyfBpMMSGh25L54VvAqF3Kg5EMYE7WGNhnfMOApajuABtQ/CfxXkYdCLd/1LOJQ/SxDea4XgJ64iat7iQ2u70w9z07fCcVy85SoU2h3rh7p4jdKWHsQ0seyoA2omS38vTVsPIfN9W5dgpTGnChibBzXsMdal47qyPAMa6zNKq6qEiIBlULDjLXHKuGM3sOv5+IniCiZTlM78Nw0sCxwz/B++xZNvxknUoKsD/BU9dsNL1McDTK26+ZqoUWVDaAnyIsNHBNb9Jg7w3cXvwi6ImIJuNwmbldzaoYQN7OGUrH/PNsHY4Tt+1To2jwHoWTn0XfwgDwHyZb4ecPQCkcVw1xTNgcOCi6lLCgjCk+2rzmRaAoeKs5rm13BimxYUaKLMoL+wAd2nME/oXn0K4x/A5R44x4zBQAA" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" createdInVersion="24.1.5.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="24.1.5.0" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="50b13656-6d31-4acc-9d8b-16d348cd7e50">
+      <xpObject Id="326ffb06-a062-4c17-ae4f-ecc256c73fea" name="GeneralXpObject1" baseClass="XPObject" userFileName="GeneralXpObject1" designerFileName="GeneralXpObject1.Designer" className="GeneralXpObject1" virtualName="GeneralXpObject1">
+        <fields>
+          <generalXpObjectHasFields Id="fd4bbe63-9c84-477c-9355-1e6eae6ebe7c">
+            <field Id="06450a2c-9f4f-457e-b4b4-5b1e4628551d" name="Field1" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>

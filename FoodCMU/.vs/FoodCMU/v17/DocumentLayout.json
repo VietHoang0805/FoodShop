@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\FoodShop\\FoodCMU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0496EB8B-E127-4F2A-9093-5854851E5C7D}|FoodCMU.Module\\FoodCMU.Module.csproj|h:\\foodshop\\foodcmu\\foodcmu.module\\businessobjects\\foodcmu.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|",
+      "RelativeMoniker": "D:0:0:{0496EB8B-E127-4F2A-9093-5854851E5C7D}|FoodCMU.Module\\FoodCMU.Module.csproj|solutionrelative:foodcmu.module\\businessobjects\\foodcmu.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodCMU.xpo",
+              "DocumentMoniker": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodCMU.xpo",
+              "RelativeDocumentMoniker": "FoodCMU.Module\\BusinessObjects\\FoodCMU.xpo",
+              "ToolTip": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodCMU.xpo",
+              "RelativeToolTip": "FoodCMU.Module\\BusinessObjects\\FoodCMU.xpo",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJqSURBVDhPdVJNSFRRFD73OU0/E\u002BNoheVQYeYiF2XrKbLGTURQ4SbFAlcSBgUWEYK4rShlCAIhojZFrhIZyxwIF8FoibtARspotFLHQXR87773bt\u002B584Yx1A8\u002B3jnnnXPud869gooQjT0TkcpwRdx11W6lFLmKiL8KxkJmhfpvHvMjT\u002BbTAfz0eaa49DB56vD\u002BsnjzmYqA32d44TzeT2Rp\u002BNcimyVgsYEQgjPF5QefT1eF98Zbzh4M7NpmkA\u002B6CvyA4sHxJcrldN16xRrcwKioDA/U1B4KfP0rKDmraHxO0cRvRZN/FA2MLeoxVtcszt\u002B8gbTdoAvTcoksh8jGzA7s2nJB1yIhsJRa68OF/P\u002BgG1iWTdJRKFYkUWw5QjdDL0rP3aGpVAP9SF\u002Bhu311yx3P6kZ0pQdeoliTti5gBx89O3avb2FmOknd7T2wJbmuRV2x\u002B\u002Be4sAC9RBMKbBen4kiJ01mFCdtBTEpF86tfaCrzklLZ1/D5iCLyI5jcQIHcgEfgL/aBgISxLNNouKrJ/nqwarUGBW/fjPLDgEyIh3QXI\u002By4UGXtCR5d6I3FD8DFGPyyaChfWgQ/jgBY6jEEloHlbLe0daJK5/AViqbWe\u002Bxr5exvuFcP4lbvyQRS6lmO46hPsduTDde7a4YLMRexV92pqJe/ASXtT06o\u002BZWkSi\u002BPqBuPjvOpO5u7qtV0pl99W3ihrnYe4ZifZWwGQ2KTM9kEXuZjMnmraMqx70ujNDbbR6apb2PLEXyNHdVDjuNGLRSZOTvx8Xn6YqRp3zvDEFFeaDC0PTH49Of5LXcA8g3phwayBBtkxetiJP8BQng4q1OFyewAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-11T09:14:47.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

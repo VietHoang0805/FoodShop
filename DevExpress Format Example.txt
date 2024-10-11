@@ -1,0 +1,10 @@
+DevExpress.ExpressApp.Model.ModelDefault("DisplayFormat","### ### ### ###")
+DevExpress.ExpressApp.Model.ModelDefault("EditMask","### ### ### ###")
+
+DevExpress.ExpressApp.Model.ModelDefault("EditMask","dd/MM/yyyy HH:mm")
+DevExpress.ExpressApp.Model.ModelDefault("DisplayFormat","{0:dd/MM/yyyy HH:mm}")
+
+
+DevExpress.Persistent.Validation.RuleUniqueValue
+
+DefaultProperty('TenSP")
