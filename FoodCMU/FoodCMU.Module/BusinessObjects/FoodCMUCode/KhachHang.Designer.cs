@@ -16,13 +16,19 @@ using System.Reflection;
 namespace FoodCMU.Module.BusinessObjects.FoodCMU
 {
 
-    public partial class HoaDon : XPObject
+    public partial class KhachHang : XPObject
     {
-        DateTime fNgay;
-        public DateTime Ngay
+        string fHoTen;
+        public string HoTen
         {
-            get { return fNgay; }
-            set { SetPropertyValue<DateTime>(nameof(Ngay), ref fNgay, value); }
+            get { return fHoTen; }
+            set { SetPropertyValue<string>(nameof(HoTen), ref fHoTen, value); }
+        }
+        string fSDT;
+        public string SDT
+        {
+            get { return fSDT; }
+            set { SetPropertyValue<string>(nameof(SDT), ref fSDT, value); }
         }
     }
 

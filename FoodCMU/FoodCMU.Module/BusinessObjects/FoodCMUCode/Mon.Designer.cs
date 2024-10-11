@@ -16,13 +16,25 @@ using System.Reflection;
 namespace FoodCMU.Module.BusinessObjects.FoodCMU
 {
 
-    public partial class HoaDon : XPObject
+    public partial class Mon : XPObject
     {
-        DateTime fNgay;
-        public DateTime Ngay
+        string fTenSP;
+        public string TenSP
         {
-            get { return fNgay; }
-            set { SetPropertyValue<DateTime>(nameof(Ngay), ref fNgay, value); }
+            get { return fTenSP; }
+            set { SetPropertyValue<string>(nameof(TenSP), ref fTenSP, value); }
+        }
+        string fDonViTinh;
+        public string DonViTinh
+        {
+            get { return fDonViTinh; }
+            set { SetPropertyValue<string>(nameof(DonViTinh), ref fDonViTinh, value); }
+        }
+        string fGiaBan;
+        public string GiaBan
+        {
+            get { return fGiaBan; }
+            set { SetPropertyValue<string>(nameof(GiaBan), ref fGiaBan, value); }
         }
     }
 

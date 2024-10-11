@@ -8,9 +8,9 @@ using System.Reflection;
 namespace FoodCMU.Module.BusinessObjects.FoodCMU
 {
 
-    public partial class HoaDon
+    public partial class KhachHang
     {
-        public HoaDon(Session session) : base(session) { }
+        public KhachHang(Session session) : base(session) { }
         public override void AfterConstruction() { base.AfterConstruction(); }
     }
 
