@@ -3,18 +3,22 @@
   "WorkspaceRootPath": "H:\\FoodShop\\FoodCMU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0496EB8B-E127-4F2A-9093-5854851E5C7D}|FoodCMU.Module\\FoodCMU.Module.csproj|h:\\foodshop\\foodcmu\\foodcmu.module\\businessobjects\\foodcmu.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|",
-      "RelativeMoniker": "D:0:0:{0496EB8B-E127-4F2A-9093-5854851E5C7D}|FoodCMU.Module\\FoodCMU.Module.csproj|solutionrelative:foodcmu.module\\businessobjects\\foodcmu.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|"
+      "AbsoluteMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|h:\\foodshop\\foodcmu\\foodcmu.module\\businessobjects\\foodshop.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|",
+      "RelativeMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|solutionrelative:foodcmu.module\\businessobjects\\foodshop.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|h:\\foodshop\\foodcmu\\foodcmu.module\\businessobjects\\foodshopcode\\mon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|solutionrelative:foodcmu.module\\businessobjects\\foodshopcode\\mon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 155,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,14 +38,27 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mon.Designer.cs",
+              "DocumentMoniker": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\Mon.Designer.cs",
+              "RelativeDocumentMoniker": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\Mon.Designer.cs",
+              "ToolTip": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\Mon.Designer.cs",
+              "RelativeToolTip": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\Mon.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:50:54.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FoodCMU.xpo",
-              "DocumentMoniker": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodCMU.xpo",
-              "RelativeDocumentMoniker": "FoodCMU.Module\\BusinessObjects\\FoodCMU.xpo",
-              "ToolTip": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodCMU.xpo",
-              "RelativeToolTip": "FoodCMU.Module\\BusinessObjects\\FoodCMU.xpo",
+              "Title": "FoodShop.xpo",
+              "DocumentMoniker": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShop.xpo",
+              "RelativeDocumentMoniker": "FoodCMU.Module\\BusinessObjects\\FoodShop.xpo",
+              "ToolTip": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShop.xpo",
+              "RelativeToolTip": "FoodCMU.Module\\BusinessObjects\\FoodShop.xpo",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJqSURBVDhPdVJNSFRRFD73OU0/E\u002BNoheVQYeYiF2XrKbLGTURQ4SbFAlcSBgUWEYK4rShlCAIhojZFrhIZyxwIF8FoibtARspotFLHQXR87773bt\u002B584Yx1A8\u002B3jnnnXPud869gooQjT0TkcpwRdx11W6lFLmKiL8KxkJmhfpvHvMjT\u002BbTAfz0eaa49DB56vD\u002BsnjzmYqA32d44TzeT2Rp\u002BNcimyVgsYEQgjPF5QefT1eF98Zbzh4M7NpmkA\u002B6CvyA4sHxJcrldN16xRrcwKioDA/U1B4KfP0rKDmraHxO0cRvRZN/FA2MLeoxVtcszt\u002B8gbTdoAvTcoksh8jGzA7s2nJB1yIhsJRa68OF/P\u002BgG1iWTdJRKFYkUWw5QjdDL0rP3aGpVAP9SF\u002Bhu311yx3P6kZ0pQdeoliTti5gBx89O3avb2FmOknd7T2wJbmuRV2x\u002B\u002Be4sAC9RBMKbBen4kiJ01mFCdtBTEpF86tfaCrzklLZ1/D5iCLyI5jcQIHcgEfgL/aBgISxLNNouKrJ/nqwarUGBW/fjPLDgEyIh3QXI\u002By4UGXtCR5d6I3FD8DFGPyyaChfWgQ/jgBY6jEEloHlbLe0daJK5/AViqbWe\u002Bxr5exvuFcP4lbvyQRS6lmO46hPsduTDde7a4YLMRexV92pqJe/ASXtT06o\u002BZWkSi\u002BPqBuPjvOpO5u7qtV0pl99W3ihrnYe4ZifZWwGQ2KTM9kEXuZjMnmraMqx70ujNDbbR6apb2PLEXyNHdVDjuNGLRSZOTvx8Xn6YqRp3zvDEFFeaDC0PTH49Of5LXcA8g3phwayBBtkxetiJP8BQng4q1OFyewAAAAASUVORK5CYII=",
-              "WhenOpened": "2024-10-11T09:14:47.838Z",
+              "WhenOpened": "2024-10-20T13:20:46.603Z",
               "EditorCaption": ""
             }
           ]

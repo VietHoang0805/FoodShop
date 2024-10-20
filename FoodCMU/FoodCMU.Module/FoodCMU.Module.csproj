@@ -30,7 +30,7 @@
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.34.0" />
   </ItemGroup>
   <ItemGroup>
-    <None Update="BusinessObjects\FoodCMU.xpo.diagram">
+    <None Update="BusinessObjects\FoodShop.xpo.diagram">
       <AutoGen>True</AutoGen>
     </None>
   </ItemGroup>

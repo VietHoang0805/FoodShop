@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodCMU.Module")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bed9adc265f0259ce2a7d682d7c38ca528fc0df0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc2dc4b6d0369851b2cc2f59d9714c4a3792f4e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodCMU.Module")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodCMU.Module")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.*")]

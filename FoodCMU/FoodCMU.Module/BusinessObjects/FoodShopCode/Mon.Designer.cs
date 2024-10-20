@@ -13,16 +13,22 @@ using DevExpress.Data.Filtering;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
-namespace FoodCMU.Module.BusinessObjects.FoodCMU
+namespace FoodCMU.Module.BusinessObjects.FoodShop
 {
 
-    public partial class Mon : XPObject
+    public partial class Mon : DevExpress.Persistent.BaseImpl.BaseObject
     {
-        string fTenSP;
-        public string TenSP
+        string fNhomMonID;
+        public string NhomMonID
         {
-            get { return fTenSP; }
-            set { SetPropertyValue<string>(nameof(TenSP), ref fTenSP, value); }
+            get { return fNhomMonID; }
+            set { SetPropertyValue<string>(nameof(NhomMonID), ref fNhomMonID, value); }
+        }
+        string fTenMon;
+        public string TenMon
+        {
+            get { return fTenMon; }
+            set { SetPropertyValue<string>(nameof(TenMon), ref fTenMon, value); }
         }
         string fDonViTinh;
         public string DonViTinh
@@ -30,11 +36,13 @@ namespace FoodCMU.Module.BusinessObjects.FoodCMU
             get { return fDonViTinh; }
             set { SetPropertyValue<string>(nameof(DonViTinh), ref fDonViTinh, value); }
         }
-        string fGiaBan;
-        public string GiaBan
+        decimal fGiaBan;
+        [DevExpress.ExpressApp.Model.ModelDefault("DisplayFormat", "### ### ### ###"),
+DevExpress.ExpressApp.Model.ModelDefault("EditMask", "### ### ### ###")]
+        public decimal GiaBan
         {
             get { return fGiaBan; }
-            set { SetPropertyValue<string>(nameof(GiaBan), ref fGiaBan, value); }
+            set { SetPropertyValue<decimal>(nameof(GiaBan), ref fGiaBan, value); }
         }
     }
 

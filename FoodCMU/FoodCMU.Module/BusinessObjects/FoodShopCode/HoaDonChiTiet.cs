@@ -5,12 +5,12 @@ using DevExpress.Data.Filtering;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
-namespace FoodCMU.Module.BusinessObjects.FoodCMU
+namespace FoodCMU.Module.BusinessObjects.FoodShop
 {
 
-    public partial class ThuNgan
+    public partial class HoaDonChiTiet
     {
-        public ThuNgan(Session session) : base(session) { }
+        public HoaDonChiTiet(Session session) : base(session) { }
         public override void AfterConstruction() { base.AfterConstruction(); }
     }
 

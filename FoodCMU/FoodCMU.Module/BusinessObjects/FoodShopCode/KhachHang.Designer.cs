@@ -13,22 +13,22 @@ using DevExpress.Data.Filtering;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
-namespace FoodCMU.Module.BusinessObjects.FoodCMU
+namespace FoodCMU.Module.BusinessObjects.FoodShop
 {
 
-    public partial class HoaDonChiTiet : XPObject
+    public partial class KhachHang : DevExpress.Persistent.BaseImpl.BaseObject
     {
-        string fSoLuong;
-        public string SoLuong
+        string fHoTen;
+        public string HoTen
         {
-            get { return fSoLuong; }
-            set { SetPropertyValue<string>(nameof(SoLuong), ref fSoLuong, value); }
+            get { return fHoTen; }
+            set { SetPropertyValue<string>(nameof(HoTen), ref fHoTen, value); }
         }
-        string fDonGia;
-        public string DonGia
+        string fSDT;
+        public string SDT
         {
-            get { return fDonGia; }
-            set { SetPropertyValue<string>(nameof(DonGia), ref fDonGia, value); }
+            get { return fSDT; }
+            set { SetPropertyValue<string>(nameof(SDT), ref fSDT, value); }
         }
     }
 

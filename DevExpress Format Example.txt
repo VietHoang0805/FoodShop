@@ -7,4 +7,4 @@ DevExpress.ExpressApp.Model.ModelDefault("DisplayFormat","{0:dd/MM/yyyy HH:mm}")
 
 DevExpress.Persistent.Validation.RuleUniqueValue
 
-DefaultProperty('TenSP")
+DefaultProperty("HoTen")
