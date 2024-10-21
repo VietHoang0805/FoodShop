@@ -18,11 +18,12 @@ namespace FoodCMU.Module.BusinessObjects.FoodShop
 
     public partial class Mon : DevExpress.Persistent.BaseImpl.BaseObject
     {
-        string fNhomMonID;
-        public string NhomMonID
+        NhomMon fNhomMonID;
+        [Association(@"MonReferencesNhomMon")]
+        public NhomMon NhomMonID
         {
             get { return fNhomMonID; }
-            set { SetPropertyValue<string>(nameof(NhomMonID), ref fNhomMonID, value); }
+            set { SetPropertyValue<NhomMon>(nameof(NhomMonID), ref fNhomMonID, value); }
         }
         string fTenMon;
         public string TenMon
@@ -44,6 +45,8 @@ DevExpress.ExpressApp.Model.ModelDefault("EditMask", "### ### ### ###")]
             get { return fGiaBan; }
             set { SetPropertyValue<decimal>(nameof(GiaBan), ref fGiaBan, value); }
         }
+        [Association(@"HoaDonChiTietReferencesMon"), Aggregated]
+        public XPCollection<HoaDonChiTiet> HoaDonChiTiets { get { return GetCollection<HoaDonChiTiet>(nameof(HoaDonChiTiets)); } }
     }
 
 }

@@ -16,6 +16,7 @@ using System.Reflection;
 namespace FoodCMU.Module.BusinessObjects.FoodShop
 {
 
+    [DefaultProperty("TenNhom")]
     public partial class NhomMon : DevExpress.Persistent.BaseImpl.BaseObject
     {
         string fTenNhom;
@@ -24,6 +25,8 @@ namespace FoodCMU.Module.BusinessObjects.FoodShop
             get { return fTenNhom; }
             set { SetPropertyValue<string>(nameof(TenNhom), ref fTenNhom, value); }
         }
+        [Association(@"MonReferencesNhomMon"), Aggregated]
+        public XPCollection<Mon> Mons { get { return GetCollection<Mon>(nameof(Mons)); } }
     }
 
 }

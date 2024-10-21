@@ -18,17 +18,19 @@ namespace FoodCMU.Module.BusinessObjects.FoodShop
 
     public partial class HoaDon : DevExpress.Persistent.BaseImpl.BaseObject
     {
-        string fKhachHangID;
-        public string KhachHangID
+        KhachHang fKhachHangID;
+        [Association(@"HoaDonReferencesKhachHang")]
+        public KhachHang KhachHangID
         {
             get { return fKhachHangID; }
-            set { SetPropertyValue<string>(nameof(KhachHangID), ref fKhachHangID, value); }
+            set { SetPropertyValue<KhachHang>(nameof(KhachHangID), ref fKhachHangID, value); }
         }
-        string fThuNganID;
-        public string ThuNganID
+        ThuNgan fThuNganID;
+        [Association(@"HoaDonReferencesThuNgan")]
+        public ThuNgan ThuNganID
         {
             get { return fThuNganID; }
-            set { SetPropertyValue<string>(nameof(ThuNganID), ref fThuNganID, value); }
+            set { SetPropertyValue<ThuNgan>(nameof(ThuNganID), ref fThuNganID, value); }
         }
         DateTime fNgay;
         [DevExpress.ExpressApp.Model.ModelDefault("EditMask", "dd/MM/yyyy HH:mm"),
@@ -44,6 +46,8 @@ DevExpress.ExpressApp.Model.ModelDefault("DisplayFormat", "{0:dd/MM/yyyy HH:mm}"
             get { return fSoBan; }
             set { SetPropertyValue<int>(nameof(SoBan), ref fSoBan, value); }
         }
+        [Association(@"HoaDonChiTietReferencesHoaDon"), Aggregated]
+        public XPCollection<HoaDonChiTiet> HoaDonChiTiets { get { return GetCollection<HoaDonChiTiet>(nameof(HoaDonChiTiets)); } }
     }
 
 }

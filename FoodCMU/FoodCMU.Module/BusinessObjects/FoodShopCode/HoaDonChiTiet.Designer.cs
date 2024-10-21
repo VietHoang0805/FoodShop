@@ -18,17 +18,19 @@ namespace FoodCMU.Module.BusinessObjects.FoodShop
 
     public partial class HoaDonChiTiet : DevExpress.Persistent.BaseImpl.BaseObject
     {
-        string fHoaDonID;
-        public string HoaDonID
+        HoaDon fHoaDonID;
+        [Association(@"HoaDonChiTietReferencesHoaDon")]
+        public HoaDon HoaDonID
         {
             get { return fHoaDonID; }
-            set { SetPropertyValue<string>(nameof(HoaDonID), ref fHoaDonID, value); }
+            set { SetPropertyValue<HoaDon>(nameof(HoaDonID), ref fHoaDonID, value); }
         }
-        string fMonID;
-        public string MonID
+        Mon fMonID;
+        [Association(@"HoaDonChiTietReferencesMon")]
+        public Mon MonID
         {
             get { return fMonID; }
-            set { SetPropertyValue<string>(nameof(MonID), ref fMonID, value); }
+            set { SetPropertyValue<Mon>(nameof(MonID), ref fMonID, value); }
         }
         int fSoLuong;
         public int SoLuong

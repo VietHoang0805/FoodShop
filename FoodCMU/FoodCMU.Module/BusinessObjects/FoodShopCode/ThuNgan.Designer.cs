@@ -30,6 +30,8 @@ namespace FoodCMU.Module.BusinessObjects.FoodShop
             get { return fSDT; }
             set { SetPropertyValue<string>(nameof(SDT), ref fSDT, value); }
         }
+        [Association(@"HoaDonReferencesThuNgan"), Aggregated]
+        public XPCollection<HoaDon> HoaDons { get { return GetCollection<HoaDon>(nameof(HoaDons)); } }
     }
 
 }
