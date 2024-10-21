@@ -11,7 +11,14 @@ namespace FoodCMU.Module.BusinessObjects.FoodShop
     public partial class HoaDon
     {
         public HoaDon(Session session) : base(session) { }
-        public override void AfterConstruction() { base.AfterConstruction(); }
+        public override void AfterConstruction() 
+        { 
+            base.AfterConstruction(); 
+            if(Session.IsNewObject(this))
+            {
+                Ngay = DateTime.Now;
+            }
+        }
     }
 
 }

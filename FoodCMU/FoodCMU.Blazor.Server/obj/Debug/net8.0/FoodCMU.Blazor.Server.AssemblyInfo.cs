@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodCMU.Blazor.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a62035b9d8186f7d829c7c78efef86159328f299")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f9d7ae65cfd4d63a5687840cb0824e286f6c790")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodCMU.Blazor.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodCMU.Blazor.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.*")]

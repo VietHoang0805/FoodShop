@@ -46,6 +46,14 @@ DevExpress.ExpressApp.Model.ModelDefault("DisplayFormat", "{0:dd/MM/yyyy HH:mm}"
             get { return fSoBan; }
             set { SetPropertyValue<int>(nameof(SoBan), ref fSoBan, value); }
         }
+        int fSoPhieu;
+        [DevExpress.Xpo.DisplayName(@"Số Phiếu")]
+        [DevExpress.Persistent.Validation.RuleUniqueValue]
+        public int SoPhieu
+        {
+            get { return fSoPhieu; }
+            set { SetPropertyValue<int>(nameof(SoPhieu), ref fSoPhieu, value); }
+        }
         [Association(@"HoaDonChiTietReferencesHoaDon"), Aggregated]
         public XPCollection<HoaDonChiTiet> HoaDonChiTiets { get { return GetCollection<HoaDonChiTiet>(nameof(HoaDonChiTiets)); } }
     }

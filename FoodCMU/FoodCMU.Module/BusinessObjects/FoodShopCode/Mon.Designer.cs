@@ -39,7 +39,7 @@ namespace FoodCMU.Module.BusinessObjects.FoodShop
         }
         decimal fGiaBan;
         [DevExpress.ExpressApp.Model.ModelDefault("DisplayFormat", "### ### ### ###"),
-DevExpress.ExpressApp.Model.ModelDefault("EditMask", "### ### ### ###")]
+        DevExpress.ExpressApp.Model.ModelDefault("EditMask", "### ### ### ###")]
         public decimal GiaBan
         {
             get { return fGiaBan; }

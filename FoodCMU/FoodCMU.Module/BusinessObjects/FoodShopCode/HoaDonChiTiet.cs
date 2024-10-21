@@ -11,7 +11,10 @@ namespace FoodCMU.Module.BusinessObjects.FoodShop
     public partial class HoaDonChiTiet
     {
         public HoaDonChiTiet(Session session) : base(session) { }
-        public override void AfterConstruction() { base.AfterConstruction(); }
+        public override void AfterConstruction() 
+        { 
+            base.AfterConstruction(); 
+        }
     }
 
 }
