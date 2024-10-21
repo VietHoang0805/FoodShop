@@ -1,12 +1,34 @@
-﻿<?xml version="1.0" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Application Title="FoodCMU">
   <BOModel>
     <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
   </BOModel>
+  <NavigationItems>
+    <Items>
+      <Item Id="@baafcaf2-616e-4d21-8355-2a7f8b34afbe" Caption="Bán Đồ Ăn" ImageName="BO_Sale_Item" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@2cf40658-4d71-4af3-9775-06ecd62f32eb" Caption="Hóa Đơn" ViewId="HoaDon_ListView" IsNewNode="True" />
+          <Item Id="@30687327-47b2-49f4-b030-ec0998a1b0c9" ViewId="ThuNgan_ListView" Caption="Thu Ngân" IsNewNode="True" />
+          <Item Id="@6cd1e3d2-8837-472a-b0a1-b46dd11cb714" ViewId="NhomMon_ListView" Caption="Nhóm Món" IsNewNode="True" />
+          <Item Id="@be234977-960c-46d6-a7fe-d06c884d0edc" ViewId="KhachHang_ListView" Caption="Khách Hàng" IsNewNode="True" />
+          <Item Id="@e216a665-b422-4f7c-a71e-bbbfc0009b9f" ViewId="Mon_ListView" Caption="Món" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
   <Options>
     <LayoutManagerOptions RequiredFieldMark="*" />
   </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.1.5.0" IsNewNode="True" />
+  </SchemaModules>
   <Views>
     <ListView Id="ApplicationUser_ListView" Caption="Users" />
+    <ListView Id="HoaDon_HoaDonChiTiets_ListView" AllowEdit="True" NewItemRowPosition="Top" />
+    <ListView Id="HoaDon_ListView" AllowEdit="True" NewItemRowPosition="Top" />
+    <ListView Id="KhachHang_ListView" AllowEdit="True" NewItemRowPosition="Top" />
+    <ListView Id="Mon_ListView" AllowEdit="True" NewItemRowPosition="Top" />
+    <ListView Id="NhomMon_ListView" AllowEdit="True" NewItemRowPosition="Top" />
+    <ListView Id="ThuNgan_ListView" AllowEdit="True" NewItemRowPosition="Top" />
   </Views>
 </Application>

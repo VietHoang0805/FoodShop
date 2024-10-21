@@ -45,7 +45,7 @@
             <field Id="8fc05986-e610-431d-9989-e3f664d361d3" name="DonGia" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
           </generalXpObjectHasFields>
           <generalXpObjectHasFields Id="4fb11962-e799-44b7-b0bb-7368cb8d965e">
-            <persistentAlias Id="fbf06a05-c081-489e-bb73-846a3ab3cd56" name="ThanhTien" virtualColumnType="String" expression="ToDecimal([SoLuong]) * [DonGia]" />
+            <persistentAlias Id="fbf06a05-c081-489e-bb73-846a3ab3cd56" name="ThanhTien" columnType="Decimal" virtualColumnType="Decimal" expression="ToDecimal([SoLuong]) * [DonGia]" />
           </generalXpObjectHasFields>
         </fields>
       </xpObject>

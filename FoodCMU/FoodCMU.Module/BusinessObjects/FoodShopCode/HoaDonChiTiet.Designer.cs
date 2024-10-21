@@ -45,9 +45,9 @@ namespace FoodCMU.Module.BusinessObjects.FoodShop
             set { SetPropertyValue<decimal>(nameof(DonGia), ref fDonGia, value); }
         }
         [PersistentAlias("ToDecimal([SoLuong]) * [DonGia]")]
-        public string ThanhTien
+        public decimal ThanhTien
         {
-            get { return (string)(EvaluateAlias(nameof(ThanhTien))); }
+            get { return (decimal)(EvaluateAlias(nameof(ThanhTien))); }
         }
     }
 
