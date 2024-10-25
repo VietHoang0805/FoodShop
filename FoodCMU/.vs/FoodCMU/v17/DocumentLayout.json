@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "H:\\FoodShop\\FoodCMU\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|h:\\foodshop\\foodcmu\\foodcmu.module\\businessobjects\\foodshopcode\\thungan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|solutionrelative:foodcmu.module\\businessobjects\\foodshopcode\\thungan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|h:\\foodshop\\foodcmu\\foodcmu.module\\businessobjects\\foodshopcode\\nhommon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|solutionrelative:foodcmu.module\\businessobjects\\foodshopcode\\nhommon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|h:\\foodshop\\foodcmu\\foodcmu.module\\businessobjects\\foodshopcode\\mon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|solutionrelative:foodcmu.module\\businessobjects\\foodshopcode\\mon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|h:\\foodshop\\foodcmu\\foodcmu.module\\businessobjects\\foodshopcode\\khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|solutionrelative:foodcmu.module\\businessobjects\\foodshopcode\\khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|h:\\foodshop\\foodcmu\\foodcmu.module\\businessobjects\\foodshopcode\\hoadonchitiet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|solutionrelative:foodcmu.module\\businessobjects\\foodshopcode\\hoadonchitiet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|h:\\foodshop\\foodcmu\\foodcmu.module\\businessobjects\\foodshopcode\\hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|solutionrelative:foodcmu.module\\businessobjects\\foodshopcode\\hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|h:\\foodshop\\foodcmu\\foodcmu.module\\businessobjects\\foodshop.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|",
       "RelativeMoniker": "D:0:0:{71AE502D-3EBB-4B93-904B-8D4AC7AA2DB6}|FoodCMU.Module\\FoodCMU.Module.csproj|solutionrelative:foodcmu.module\\businessobjects\\foodshop.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|"
     }
@@ -35,6 +59,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ThuNgan.Designer.cs",
+              "DocumentMoniker": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\ThuNgan.Designer.cs",
+              "RelativeDocumentMoniker": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\ThuNgan.Designer.cs",
+              "ToolTip": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\ThuNgan.Designer.cs",
+              "RelativeToolTip": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\ThuNgan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:37:47.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhomMon.Designer.cs",
+              "DocumentMoniker": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\NhomMon.Designer.cs",
+              "RelativeDocumentMoniker": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\NhomMon.Designer.cs",
+              "ToolTip": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\NhomMon.Designer.cs",
+              "RelativeToolTip": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\NhomMon.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:37:16.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mon.Designer.cs",
+              "DocumentMoniker": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\Mon.Designer.cs",
+              "RelativeDocumentMoniker": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\Mon.Designer.cs",
+              "ToolTip": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\Mon.Designer.cs",
+              "RelativeToolTip": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\Mon.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:37:14.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHang.Designer.cs",
+              "DocumentMoniker": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\KhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\KhachHang.Designer.cs",
+              "ToolTip": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\KhachHang.Designer.cs",
+              "RelativeToolTip": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\KhachHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:37:08.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoaDonChiTiet.Designer.cs",
+              "DocumentMoniker": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\HoaDonChiTiet.Designer.cs",
+              "RelativeDocumentMoniker": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\HoaDonChiTiet.Designer.cs",
+              "ToolTip": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\HoaDonChiTiet.Designer.cs",
+              "RelativeToolTip": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\HoaDonChiTiet.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:36:57.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoaDon.Designer.cs",
+              "DocumentMoniker": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\HoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\HoaDon.Designer.cs",
+              "ToolTip": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShopCode\\HoaDon.Designer.cs",
+              "RelativeToolTip": "FoodCMU.Module\\BusinessObjects\\FoodShopCode\\HoaDon.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:35:57.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FoodShop.xpo",
               "DocumentMoniker": "H:\\FoodShop\\FoodCMU\\FoodCMU.Module\\BusinessObjects\\FoodShop.xpo",
               "RelativeDocumentMoniker": "FoodCMU.Module\\BusinessObjects\\FoodShop.xpo",

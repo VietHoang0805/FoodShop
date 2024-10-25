@@ -13,9 +13,10 @@ using DevExpress.Data.Filtering;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
+using DevExpress.Persistent.Base;
 namespace FoodCMU.Module.BusinessObjects.FoodShop
 {
-
+    [DefaultClassOptions]
     public partial class HoaDonChiTiet : DevExpress.Persistent.BaseImpl.BaseObject
     {
         HoaDon fHoaDonID;
